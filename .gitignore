@@ -1,8 +1,31 @@
+Recommended .gitignore
+# Terraform
 .terraform/
 *.tfstate
 *.tfstate.*
-.terraform.lock.hcl
 *.tfplan
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+crash.log
+crash.*.log
+
+# Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+
+# Environment variables
 .env
+.env.*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
