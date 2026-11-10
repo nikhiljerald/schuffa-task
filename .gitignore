@@ -1,4 +1,3 @@
-Recommended .gitignore
 # Terraform
 .terraform/
 *.tfstate
