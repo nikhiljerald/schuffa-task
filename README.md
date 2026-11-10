@@ -103,7 +103,7 @@ The target solution is an **AWS Network Communication Governance Platform**, com
 
 ![Current proposed AWS multi-account architecture](Proposed_Schuffa_AWS_Arch.jpg)
 
-**Figure:** Latest provided architecture sketch. This README accompanies the sketch; it does not silently redefine what is drawn. Any items described as *recommended additions* below are recommendations for LLD refinement, not claims that the drawing already implements them.
+**Figure:** This README accompanies the sketch; it does not silently redefine what is drawn. Any items described as *recommended additions* below are recommendations for LLD refinement, not claims that the drawing already implements them.
 
 ### 4.1 Logical layers
 
